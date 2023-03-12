@@ -8,7 +8,7 @@ IBNIZ live coding A-Frame component, for live coding IBNIZ in the metaverse.
 Use this component in [A-Frame](https://aframe.io), together with the [Networked-Aframe](https://github.com/networked-aframe/networked-aframe) library and the [Aframe-Super-Keyboard](https://github.com/supermedium/aframe-super-keyboard) component.  
 
 ## Run
-See the VERZNIZ metaverse system for implementation: [VERNIZ](https://github.com/AudioGroupCologne/Metabeat) 
+See the VERZNIZ metaverse system for implementation: [VERNIZ](https://github.com/AudioGroupCologne/VERSNIZ) 
 
 ## Acknowledgements
 
