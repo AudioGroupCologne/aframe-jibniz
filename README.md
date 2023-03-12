@@ -1,21 +1,15 @@
-## jibniz
+# aframe-jibniz
 
-**jibniz** is a custom javascript implementation of the [IBNIZ VM](http://pelulamu.net/ibniz/).
-A tiny demo can be found on https://flupe.github.io/jibniz/.
+IBNIZ live coding A-Frame component, for live coding IBNIZ in the metaverse.
 
-## Running tests (deprecated for now)
 
-```
-yarn install
-yarn test
-```
+## Dependencies
 
-## TODO
+Use this component in [A-Frame](https://aframe.io), together with the [Networked-Aframe](https://github.com/networked-aframe/networked-aframe) library and the [Aframe-Super-Keyboard](https://github.com/supermedium/aframe-super-keyboard) component.  
 
-I've tried again and again to produce WASM from IBNIZ programs, sadly the `J`
-instruction is too powerful. In the specification, it can jump to any instruction at runtime, depending on the address found on the stack, whereas WASM jumps have to be well-behaved.
+## Run
+See the VERZNIZ metaverse system for implementation: [VERNIZ](https://github.com/AudioGroupCologne/Metabeat) 
 
-- Fix endianness hacks.
-- Basic support for audio.
-- "smart" mode detection.
-- Compile a version of the code for both T and TYX modes.
+## Acknowledgements
+
+This is a port of flupe's JavaScript implementation of the IBNIZ VM, found at [jibniz](https://github.com/flupe/jibniz) 
