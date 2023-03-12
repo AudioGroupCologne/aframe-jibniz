@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2023 Damian Dziwis
+
 Copyright (c) 2021 flupe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
